@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ivan>
+<field name="Name">Ivan</field>
+<field name="Surname">Stepanov</field>
+<field name="Age">33</field>
+<field name="Pets">0</field>
+<field name="Future salary">^_^</field>
+<Ivan>
